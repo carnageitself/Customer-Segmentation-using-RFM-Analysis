@@ -1,0 +1,5 @@
+Cluster,Recency,Frequency,Monetary,Customer_Count,Cluster_Description
+0,29.700528568705266,8.173346273157374,2759.5531081260942,288515,"High Recency, High Frequency, High Monetary"
+1,232.7528517110266,2.6681675672069907,833.435424854913,29982,"Low Recency, High Frequency, Moderate Monetary"
+2,4.208686923989415,162.69395017793593,163977.90554430147,10959,"High Recency, Low Frequency, Low Monetary"
+3,6.122359594167545,70.86254643233353,25572.77195195986,72148,"High Recency, Low Frequency, Low Monetary"
